@@ -34,10 +34,6 @@ public class Login {
 		list.add(h3);
 		list.add(h4);
 		list.add(h5);
-		//  list.add(h6);
-		//list.add(h7);
-		//list.add(h8);
-		//list.add(h9);
 
 		Headers headers = new Headers(list);
 
